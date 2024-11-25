@@ -2,8 +2,9 @@
 
 using namespace System;
 
-int main(array<System::String ^> ^args)
+int main()
 {
-    /* DIRTY */
-    return 0;
+	int number;
+	scanf_s("%d", &number);
+	printf("%d", number);
 }
