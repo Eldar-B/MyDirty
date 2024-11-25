@@ -1,9 +1,9 @@
-#include "pch.h"
+#include "stdio.h"
 
 using namespace System;
 
 int main(array<System::String ^> ^args)
 {
-    //Hello world
+    /* DIRTY */
     return 0;
 }
